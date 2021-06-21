@@ -1,0 +1,29 @@
+{% extends  'app/base.html' %}
+{% block title %}Найти ближайшее из фибоначчи{% endblock %}
+{% block header %}Найти ближайшее из фибоначчи{% endblock %}
+
+{% block content %}
+
+    <section id="content">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="fibonachi-form-wrapper">
+                        <form action="/" id="fibonachi-form" onsubmit="return false">
+                            <label for="fibonachi_input">Введите число</label>
+                            <input id="fibonachi_input" type="number" required>
+                            <label for="fibonachi_output">Результат: </label>
+                            <input disabled id="fibonachi_output">
+                            <br>
+                            <button id="fibonachi-search" type="submit">Найти</button>
+                        </form>
+                        <div>Логин от админки: testovoe26</div>
+                        <div>Пароль от админки: testovoe26</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+   </section>
+
+{% endblock %}
