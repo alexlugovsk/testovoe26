@@ -17,6 +17,4 @@
 
 ![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.jpg)
  
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
-
-![aasdsad](https://github.com/alexlugovsk/testovoe26/raw/main/testovoe26/app/static/img/prezentation/1.jpg)​
+![Иллюстрация к проекту](https://github.com/alexlugovsk/testovoe26/raw/main/testovoe26/app/static/img/prezentation/1.jpg)
