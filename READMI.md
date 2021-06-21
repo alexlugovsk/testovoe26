@@ -13,3 +13,6 @@
 Пароль от админки: testovoe26**
 
 При диплое может понадобиться заменить константу api_base_url в файле main.js, сейчас там дефолтный для Django http://127.0.0.1:8000/
+
+![alt text](testovoe26/app/static/img/prezentation/1.jpg"Описание будет тут")​
+ 
