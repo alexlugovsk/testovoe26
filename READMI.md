@@ -14,5 +14,9 @@
 
 При диплое может понадобиться заменить константу api_base_url в файле main.js, сейчас там дефолтный для Django http://127.0.0.1:8000/
 
-![alt text](testovoe26/app/static/img/prezentation/1.jpg"Описание будет тут")​
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.jpg)
  
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+
+![aasdsad](https://github.com/alexlugovsk/testovoe26/raw/main/testovoe26/app/static/img/prezentation/1.jpg)​
